@@ -7,4 +7,4 @@ write a python script to download a manga from https://m.dmzj.com/view/63898/136
 2. 第二个指令是分析html这是正确的。不过联系第一步看，这里有问题，因为人类会在第一步，通过F12找出浏览器给出的图片链接，然后再联系html分析，虽然说大部分时候分析html是没用的。而gpt并没有获得图片链接。
 
 
-最后，在html分析这个命令下，autogpt犯了明显的错误，没有把html代码发送给gpt
+最后，gpt下达html分析这个命令给下一个gpt的时候，没有真正的把html放进去，而是写了一个占位符以为它放了，所以这个命令下达错误，然后就走上错误的道路了。
