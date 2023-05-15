@@ -1,0 +1,1 @@
+"""The text does not provide information on how to download the manga. It only offers options to share the manga on various social media platforms and suggests installing a client to continue reading the next chapter.""" Using the above text, answer the following question: "How can I download the manga?" -- if the question cannot be answered using the text, summarize the text.
